@@ -78,7 +78,3 @@ Built with **HTML**, **CSS**, and **JavaScript**, this demo showcases basic shop
 * Store cart data in local storage.
 * Add filtering and sorting for products.
 
-
----
-
-Do you want me to also **add Markdown code blocks with demo product images** so your README looks more professional on GitHub? That would make it visually appealing.
